@@ -1,18 +1,4 @@
-<div align="center"> <img align="center" alt="algorithm-visualizer" src="Logo1.png" height='150' width='150'>
 
-<h1 align="center"> Algorithm-Visualizer</h1>
-
-A web application, that lets you play with complex algorithms. User's gets to visualize working of algorithms, at different speeds, and different setups.
-
-![Issues](https://img.shields.io/github/issues/servermonk/Algorithm-Visualizer)
-![PRs](https://img.shields.io/github/issues-pr/servermonk/Algorithm-Visualizer)
-![Maintenance](https://img.shields.io/maintenance/yes/2020)
-![star](https://img.shields.io/github/stars/servermonk/Algorithm-Visualizer?style=social)
-![fork](https://img.shields.io/github/forks/servermonk/Algorithm-Visualizer?style=social)
-
-
-</div>
-<hr>
 
 ## Algorithms Supported
 
