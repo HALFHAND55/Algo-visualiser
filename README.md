@@ -99,18 +99,6 @@ $ git commit -m "add any comment"
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://github.com/anubhavitis"><img alt="Anubhav" src="https://avatars1.githubusercontent.com/u/26124625?s=400&u=c411643ffe3db941107eca578ada396c5f8dfa3a&v=4" width="100px;"><br><sub><b>Anubhav Singhal</b></sub></a><br>
+        <a href="https://github.com/HALFHAND55"><img alt="Harsh" src="https://avatars1.githubusercontent.com/u/26124625?s=400&u=c411643ffe3db941107eca578ada396c5f8dfa3a&v=4" width="100px;"><br><sub><b>Harsh Mishra</b></sub></a><br>
       </td>
-      <td align="center">
-        <a href="https://github.com/servermonk">
-          <img alt="Ayush" src="https://avatars0.githubusercontent.com/u/47775419?s=400&u=8093851c8db10edad1d6a00435989daab20c2bbe&v=4" width="100px;"> <br>
-          <sub><b>Ayush Tiwari</b></sub></a>  <br>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-## **Thank You**
-Made with Love ❤️️  &  Passion 🙏.
-> Like the project?? Give us a star ⭐. Have a nice day!
+      
