@@ -99,6 +99,6 @@ $ git commit -m "add any comment"
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://github.com/HALFHAND55"><img alt="Harsh" src="https://avatars1.githubusercontent.com/u/26124625?s=400&u=c411643ffe3db941107eca578ada396c5f8dfa3a&v=4" width="100px;"><br><sub><b>Harsh Mishra</b></sub></a><br>
+        <a href="https://github.com/HALFHAND55"><b>Harsh Mishra</b></sub></a><br>
       </td>
       
