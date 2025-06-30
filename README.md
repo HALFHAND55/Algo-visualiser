@@ -31,14 +31,8 @@
 
 > Click [here](https://vizalgo.netlify.app/) to get directed to the hosted page.
 
-#### GitHub Repository Structure
 
-| S.No. | Branch Name                                                              | Purpose                       |
-| ----- | ------------------------------------------------------------------------ | ----------------------------- |
-| 1.    | [master](https://github.com/servermonk/Algorithm-Visualizer/tree/master) | contains the main code        |
-| 2.    | [beta](https://github.com/servermonk/Algorithm-Visualizer/tree/beta)     | contains all development code |
 
-> *Note*: We're not accepting any changes in the `master` branch, make PRs in the `beta` branch only.
 
 
 > 
